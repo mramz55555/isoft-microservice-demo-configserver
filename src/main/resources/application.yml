@@ -17,7 +17,7 @@ spring:
             - "eureka-server"
             - "gateway-server"
           username: "mramz55555"
-          password: # passed via ENV VARIABLE
+          password: #passed via ENV VARIABLE
           force-pull: true
           clone-on-start: true
           default-label: "master"
